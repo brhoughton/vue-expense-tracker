@@ -1,29 +1,13 @@
-# vue-expense-tracker
+# Expense Tracker
 
-This template should help get you started developing with Vue 3 in Vite.
+Track expesnses with positive and negative values.
 
-## Recommended IDE Setup
+## Description
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+An expense tracker that utilizes local storage to manage state and previous entries.
 
-## Customize configuration
+## Dependencies
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+- Vue 3.4.15
+- Vue Toastification 2.0.0
+- Vite 5.0.11
